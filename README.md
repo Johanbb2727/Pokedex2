@@ -1,5 +1,5 @@
 # Pokedex2
- Pasos para registrarte en Azure Portal y obtener la prueba gratuita:
+ # Pasos para registrarte en Azure Portal y obtener la prueba gratuita:
 
 -Visita la página https://azure.microsoft.com/es-es/free/
 -Haz clic en "Iniciar prueba gratuita".
